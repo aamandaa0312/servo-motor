@@ -1,4 +1,6 @@
 *Servo Motor + LEDs*
+![Media](https://github.com/user-attachments/assets/60e7ce62-9ebc-4083-9904-0d9d1ec1c187)
+
 📦 Materiais necessários
 1x ESP32
 
