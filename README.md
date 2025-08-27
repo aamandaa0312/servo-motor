@@ -92,7 +92,7 @@ Em seguida, vai para 0°, apagando o LED2 e acendendo o LED1.
 O processo repete, criando um ciclo de LEDs sincronizado com o movimento do servo.
 
 Esse teste mostra como controlar atuadores (servo) e saídas digitais (LEDs) em conjunto.
-](https://github.com/user-attachments/assets/60e7ce62-9ebc-4083-9904-0d9d1ec1c187
+
 
 📋 Descrição
 Projeto que demonstra o controle simultâneo de um servo motor e LEDs com ESP32, criando um ciclo sincronizado entre movimento e iluminação.
